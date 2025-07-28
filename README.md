@@ -24,12 +24,11 @@ It blends **Computer Vision**, **MediaPipe Hand Tracking**, and **Generative AI 
 
 ## 🖼️ Demo Screenshots
 
-| Virtual Drawing Interface | AI Output Example |
-|---------------------------|-------------------|
-| ![Drawing](images/drawing.png) | ![AI Output](images/ai_output1.png) |
-| ![AI Output 2](images/ai_output2.png) | ![AI Output 3](images/ai_output3.png) |
-
-> 💡 Replace `/images/...` with your actual image paths in the repo.
+| AI Output Example |
+|-------------------|
+| ![AI Output](images/ai_output1.png) |
+| ![AI Output 2](images/ai_output2.png) | 
+| ![AI Output 3](images/ai_output3.png) |
 
 ---
 
