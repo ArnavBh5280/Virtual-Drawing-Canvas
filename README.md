@@ -1,6 +1,6 @@
 # 🖐️ Virtual Canvas - AI Powered Air Drawing System ✨
 
-![Banner](images/banner.png) <!-- Replace with your actual image path -->
+![Banner]([images/banner.png](https://github.com/ArnavBh5280/Virtual-Drawing-Canvas/blob/38b65c6460559825d6b84c8f25bebc9b14b01483/ai_output1.png)) <!-- Replace with your actual image path -->
 
 ## 🧠 Project Overview
 
