@@ -26,9 +26,9 @@ It blends **Computer Vision**, **MediaPipe Hand Tracking**, and **Generative AI 
 
 | AI Output Example |
 |-------------------|
-| ![AI Output](images/ai_output1.png) |
-| ![AI Output 2](images/ai_output2.png) | 
-| ![AI Output 3](images/ai_output3.png) |
+| ![AI Output](https://github.com/ArnavBh5280/Virtual-Drawing-Canvas/blob/main/ai_output1.png) |
+| ![AI Output 2](https://github.com/ArnavBh5280/Virtual-Drawing-Canvas/blob/main/ai_output2.png) | 
+| ![AI Output 3](https://github.com/ArnavBh5280/Virtual-Drawing-Canvas/blob/main/ai_output3.png) |
 
 ---
 
